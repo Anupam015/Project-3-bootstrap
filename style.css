@@ -1,0 +1,56 @@
+html{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    display: flex;
+    justify-content: space-around;
+    margin: auto;
+}
+
+
+
+h4,h3,h2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    letter-spacing: 1px;
+}
+
+h2:hover{
+    color: LightSeaGreen;
+    font-weight: 500;
+}
+
+footer{
+    /* background-color:	#08080; */
+    width: 80%;
+    height: 45px;
+    padding:5%;
+    margin: auto;
+    text-align: center;
+}
+
+
+.intro{
+    padding: 5%;
+    text-align: center;
+}
+
+.name:hover{
+    color: LightSeaGreen;
+    font-weight: 500;
+}
+
+.relax{
+    padding: 5%;
+    text-align: center;
+}
+
+.form{
+    /* padding: 1%; */
+    text-align: center;
+}
+
+
+.card-inline{
+    display: inline-block;
+    letter-spacing: 2px;
+    margin-inline: 5%;
+
+}
